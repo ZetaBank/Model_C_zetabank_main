@@ -1,9 +1,8 @@
-Template for the Read the Docs tutorial
+Model C Manual
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+Introducing the untact service robot Model C.
 
-Read the tutorial here:
+Read the Manual here:
 
-https://docs.readthedocs.io/en/stable/tutorial/
+https://manual-model-c.readthedocs.io/en/latest/
